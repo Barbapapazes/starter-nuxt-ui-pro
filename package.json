@@ -13,13 +13,13 @@
     "lint:fix": "eslint . --fix"
   },
   "dependencies": {
-    "@nuxt/ui-pro": "^0.4.2"
+    "@nuxt/ui-pro": "^0.7.5"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^1.1.1",
-    "@nuxt/devtools": "^1.0.0",
-    "@nuxt/ui": "^2.9.0",
+    "@nuxt/devtools": "^1.6.0",
+    "@nuxt/ui": "^2.18.7",
     "eslint": "^8.53.0",
-    "nuxt": "^3.7.4"
+    "nuxt": "^3.13.2"
   }
 }
